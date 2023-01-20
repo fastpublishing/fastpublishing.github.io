@@ -1,4 +1,4 @@
-# The Shuffle Editor (https://shuffle.dev)
+# Fast Publish Bukupedia
 
 NOTE: npm commands overwrite the ./public directory.
 
@@ -34,4 +34,4 @@ support@shuffle.dev
 
 ## 4. Credits & Special thanks
 
-We use placeholders from https://unsplash.com/
+We use placeholders from unsplash.com
