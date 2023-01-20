@@ -1,6 +1,6 @@
 # Fast Publish Bukupedia
 
-NOTE: npm commands overwrite the ./public directory.
+NOTE: npm commands overwrite the ./docs directory.
 
 ## 1. Getting Started
 
