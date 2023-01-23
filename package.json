@@ -9,7 +9,7 @@
     "browsersync": "browser-sync start --directory --server ./docs --files ./docs/* --startPath index.html",
     "clean": "rimraf docs/*",
     "copy-assets": "cpx \"src/assets/**/*.*\" docs/",
-    "copy-html": "cpx \"src/html/*.html\" docs/",
+    "copy-html": "cpx \"src/html/*\" docs/",
     "css-compile": "tailwindcss build -i src/tailwind/tailwind.css -c src/tailwind/tailwind.config.js -o docs/css/tailwind/tailwind.css",
     "css-minified": "tailwindcss build -i src/tailwind/tailwind.css -c src/tailwind/tailwind.config.js -o docs/css/tailwind/tailwind.min.css --minify",
     "css": "npm-run-all --sequential css-*",
